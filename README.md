@@ -1,42 +1,26 @@
-\# LibraryManagementSystem
+# Library Management System
 
+A console-based Library Management System developed in Java to manage basic library operations such as book tracking and user interactions.
 
+## Features
+- User registration and basic authentication
+- Add, remove, and list books (CRUD operations)
+- Borrow and return book functionality
+- Menu-driven console interface for user interaction
 
-This project is a console-based Library Management System developed in Java.
+## Technologies
+- Java
+- Object-Oriented Programming (OOP)
 
+## Key Concepts
+- Encapsulation and class design
+- Basic data management
+- Modular programming structure
 
+## How to Run
+1. Open the project in any Java IDE (e.g., NetBeans, IntelliJ).
+2. Run the `LibraryManagementSystem.java` file.
+3. Use the console menu to interact with the system.
 
-\## Features
-
-\- Add and remove books
-
-\- Register library members
-
-\- Borrow and return books
-
-\- Simple menu-driven console interface
-
-
-
-\## Technologies
-
-\- Java
-
-\- Object-Oriented Programming (OOP)
-
-
-
-\## How to Run
-
-1\. Open the project in NetBeans or any Java IDE.
-
-2\. Run the `LibraryManagementSystem.java` file.
-
-3\. Use the console menu to interact with the system.
-
-
-
-\## Purpose
-
-This project was developed as a university assignment to practice basic Java and OOP concepts.
-
+## Purpose
+This project was developed to strengthen fundamental programming skills and apply object-oriented design principles in a real-world scenario.
